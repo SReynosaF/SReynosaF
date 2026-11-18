@@ -1,25 +1,41 @@
-# 👋 Hi! I'm Sergio Reynosa 🇲🇽
-### Systems Administrator | DevOps Apprentice | Home Lab Enthusiast
+# Hi, I'm Sergio Reynosa 🇲🇽
+
+### ☁️ Cloud Architect | Azure | Google Cloud | Terraform | Infrastructure as Code
+
+Cloud Architect and Senior Consultant focused on designing, modernizing, and automating cloud infrastructure across **Microsoft Azure** and **Google Cloud Platform (GCP)**.
+
+My background spans infrastructure, systems administration, virtualization, DevOps, and cloud architecture, giving me a practical end-to-end perspective: from understanding legacy environments to designing modern cloud solutions and automating their deployment.
+
+## 🚀 What I Work With
+
+- ☁️ **Cloud Architecture:** Microsoft Azure & Google Cloud Platform
+- 🏗️ **Infrastructure as Code:** Terraform
+- ⚙️ **DevOps & Automation:** Git, CI/CD, Azure DevOps & GitHub
+- 🔐 **Cloud Identity & Security:** IAM, identity federation concepts & secure cloud access
+- 🔄 **Cloud Modernization:** Migration strategies, infrastructure transformation & managed cloud services
+- 🐧 **Platforms:** Linux, Windows Server & virtualization technologies
+- 🤖 **AI & Cloud:** Exploring practical integrations of Generative AI, cloud platforms and infrastructure automation
+
+## 🧭 Current Focus
+
+I'm currently expanding my work in **Google Cloud architecture**, reusable Infrastructure as Code, identity federation, and AI-enabled cloud solutions while continuing to build on my experience with the **Microsoft Azure ecosystem**.
+
+I enjoy turning infrastructure requirements into solutions that are **repeatable, scalable, secure, and easier to operate**.
+
+## 🛠️ Technology Stack
+
+`Azure` · `Google Cloud` · `Terraform` · `Infrastructure as Code` · `Git` · `GitHub` · `Azure DevOps` · `Linux` · `Windows Server` · `VMware` · `Docker`
+
+## 🧪 Still a Home Lab Enthusiast
+
+My journey into cloud and automation was strengthened by hands-on experimentation with home labs, virtualization, Linux, Windows Server, Docker, Active Directory, scripting, and infrastructure automation.
+
+I still believe one of the best ways to understand technology is simple:
+
+> **Build it. Break it. Understand it. Automate it. Improve it.**
 
 ---
 
-## 🖥️ My Home Lab (Dell 9020 SFF)
-The core of my testing and virtualization environment:
-* **Host OS:** Windows 11 + VMware Workstation
-* **RAM:** 24 GB DDR3
-* **Storage:** * Internal: 1TB SSD + 256GB SSD
-  * External: 2TB HDD + 1TB SSD (via USB)
+### 🤝 Let's Connect
 
-## 🐳 Active Services & Labs
-- 🎬 **Plex Media Server:** Running on Ubuntu via Docker.
-- 🐧 **Linux Labs:** CentOS (Bash Scripting) and various Ubuntu instances.
-- 🛡️ **Windows Server:** Active Directory testing and 2012 R2 to 2025 migration labs.
-- 🛠️ **DevOps Tools:** Learning and implementing Terraform, Azure DevOps, and GitHub Actions.
-
-## 💻 My Gear
-- **Main Command Center:** ThinkPad T490 (Windows 11)
-- **Work & Gaming:** Lenovo IdeaPad Gaming
-- **Mobile Lab:** Samsung Galaxy S23 Ultra
-
----
-*"From 6 PM to 1 AM troubleshooting Docker... and loving every minute of the learning process."*
+I'm always interested in **Cloud Architecture, Infrastructure as Code, DevOps, Cloud Modernization, and AI on Cloud**.
